@@ -1,0 +1,12 @@
+{
+  "note": "ILLUSTRATIVE. Verify with ITU Facts and Figures 2024 and World Bank before publishing.",
+  "series": [
+    { "year": 2005, "usersBn": 1.0, "label": "2005: 1B" },
+    { "year": 2010, "usersBn": 2.0, "label": "2010: 2B" },
+    { "year": 2015, "usersBn": 3.2, "label": "2015: 3B" },
+    { "year": 2020, "usersBn": 4.6, "label": "2020: 4.6B" },
+    { "year": 2024, "usersBn": 5.5, "label": "2024: 5.5B" }
+  ],
+  "onlineShare2024": 0.68,
+  "offlineBn": 2.6
+}

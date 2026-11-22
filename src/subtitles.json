@@ -1,0 +1,785 @@
+[
+  {
+    "scene": "S01",
+    "start": 0,
+    "end": 195,
+    "lines": [
+      "In 2005, one billion people were online.",
+      "Today, about five and a half billion are."
+    ]
+  },
+  {
+    "scene": "S01",
+    "start": 195,
+    "end": 385,
+    "lines": [
+      "That is two-thirds of humanity. But the",
+      "last billion is the hardest. This is the"
+    ]
+  },
+  {
+    "scene": "S01",
+    "start": 385,
+    "end": 568,
+    "lines": [
+      "story of the global internet, told in",
+      "data. We will look at who is connected,"
+    ]
+  },
+  {
+    "scene": "S01",
+    "start": 568,
+    "end": 750,
+    "lines": [
+      "who is not, and what it will take to close",
+      "the gap, one connection at a time."
+    ]
+  },
+  {
+    "scene": "S02",
+    "start": 750,
+    "end": 913,
+    "lines": [
+      "Start with the headline. Around 5.5",
+      "billion people used the internet in 2024."
+    ]
+  },
+  {
+    "scene": "S02",
+    "start": 913,
+    "end": 1080,
+    "lines": [
+      "That sounds like success, and in many ways",
+      "it is. In less than two decades, the"
+    ]
+  },
+  {
+    "scene": "S02",
+    "start": 1080,
+    "end": 1258,
+    "lines": [
+      "internet became the default infrastructure",
+      "of modern life. We use it to learn, work,"
+    ]
+  },
+  {
+    "scene": "S02",
+    "start": 1258,
+    "end": 1421,
+    "lines": [
+      "bank, vote, and stay in touch. But a",
+      "global average hides the story. If about"
+    ]
+  },
+  {
+    "scene": "S02",
+    "start": 1421,
+    "end": 1582,
+    "lines": [
+      "two-thirds are online, roughly one in",
+      "three people is still offline. That is"
+    ]
+  },
+  {
+    "scene": "S02",
+    "start": 1582,
+    "end": 1760,
+    "lines": [
+      "about 2.6 billion people. So the question",
+      "is not whether the internet matters. It is"
+    ]
+  },
+  {
+    "scene": "S02",
+    "start": 1760,
+    "end": 1800,
+    "lines": [
+      "who gets to use it."
+    ]
+  },
+  {
+    "scene": "S03",
+    "start": 1800,
+    "end": 1986,
+    "lines": [
+      "The growth curve is one of the fastest",
+      "adoption stories in history. In 2005, just"
+    ]
+  },
+  {
+    "scene": "S03",
+    "start": 1986,
+    "end": 2170,
+    "lines": [
+      "over one billion people were online. By",
+      "2010, the number had passed two billion."
+    ]
+  },
+  {
+    "scene": "S03",
+    "start": 2170,
+    "end": 2349,
+    "lines": [
+      "By 2015, it was over three billion. By",
+      "2020, the pandemic pushed millions more"
+    ]
+  },
+  {
+    "scene": "S03",
+    "start": 2349,
+    "end": 2526,
+    "lines": [
+      "online for school, work, and healthcare,",
+      "almost overnight. By 2024, the world"
+    ]
+  },
+  {
+    "scene": "S03",
+    "start": 2526,
+    "end": 2714,
+    "lines": [
+      "crossed five and a half billion. But look",
+      "closely at the shape of the curve. It is"
+    ]
+  },
+  {
+    "scene": "S03",
+    "start": 2714,
+    "end": 2905,
+    "lines": [
+      "slowing. The easy connections are already",
+      "made. The people still offline are harder"
+    ]
+  },
+  {
+    "scene": "S03",
+    "start": 2905,
+    "end": 3066,
+    "lines": [
+      "to reach: remote communities, low-income",
+      "households, and regions where"
+    ]
+  },
+  {
+    "scene": "S03",
+    "start": 3066,
+    "end": 3150,
+    "lines": [
+      "infrastructure is expensive to build."
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 3150,
+    "end": 3321,
+    "lines": [
+      "Now let us break the average down by",
+      "region. In Europe, around 92 percent of"
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 3321,
+    "end": 3505,
+    "lines": [
+      "people are online. In the Americas, about",
+      "87 percent. In the Arab States, about 70"
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 3505,
+    "end": 3678,
+    "lines": [
+      "percent. In the Asia-Pacific region,",
+      "roughly two-thirds. In Africa, around 37"
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 3678,
+    "end": 3849,
+    "lines": [
+      "percent, which means most people there are",
+      "still offline. These gaps are not"
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 3849,
+    "end": 4031,
+    "lines": [
+      "accidents. They follow geography, income,",
+      "electricity, and policy. A country with"
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 4031,
+    "end": 4206,
+    "lines": [
+      "dense cities and strong fiber can connect",
+      "people quickly. A country with rural"
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 4206,
+    "end": 4390,
+    "lines": [
+      "populations and high construction costs",
+      "faces a longer, more expensive path. Every"
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 4390,
+    "end": 4565,
+    "lines": [
+      "new cable and every new tower changes who",
+      "can take part. The global map of the"
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 4565,
+    "end": 4650,
+    "lines": [
+      "internet is also a map of inequality."
+    ]
+  },
+  {
+    "scene": "S05",
+    "start": 4650,
+    "end": 4825,
+    "lines": [
+      "For many people, the first connection is",
+      "not a laptop. It is a phone. Mobile"
+    ]
+  },
+  {
+    "scene": "S05",
+    "start": 4825,
+    "end": 5000,
+    "lines": [
+      "broadband has been the on-ramp to the",
+      "internet across low- and middle-income"
+    ]
+  },
+  {
+    "scene": "S05",
+    "start": 5000,
+    "end": 5182,
+    "lines": [
+      "countries. A single tower can reach a",
+      "village that fiber has not reached yet. A"
+    ]
+  },
+  {
+    "scene": "S05",
+    "start": 5182,
+    "end": 5373,
+    "lines": [
+      "prepaid SIM can be bought without a bank",
+      "account, and that changes everything for a"
+    ]
+  },
+  {
+    "scene": "S05",
+    "start": 5373,
+    "end": 5568,
+    "lines": [
+      "family that has never had a contract. That",
+      "is why mobile coverage has expanded faster"
+    ]
+  },
+  {
+    "scene": "S05",
+    "start": 5568,
+    "end": 5757,
+    "lines": [
+      "than fixed broadband. But coverage is not",
+      "the same as usage. You can have a signal"
+    ]
+  },
+  {
+    "scene": "S05",
+    "start": 5757,
+    "end": 5943,
+    "lines": [
+      "and still be offline, because you cannot",
+      "afford a smartphone, a data plan, or the"
+    ]
+  },
+  {
+    "scene": "S05",
+    "start": 5943,
+    "end": 6000,
+    "lines": [
+      "electricity to charge it."
+    ]
+  },
+  {
+    "scene": "S06",
+    "start": 6000,
+    "end": 6182,
+    "lines": [
+      "Affordability is the quiet barrier. The UN",
+      "broadband target is that entry-level"
+    ]
+  },
+  {
+    "scene": "S06",
+    "start": 6182,
+    "end": 6345,
+    "lines": [
+      "broadband should cost no more than 2",
+      "percent of monthly income. In many"
+    ]
+  },
+  {
+    "scene": "S06",
+    "start": 6345,
+    "end": 6522,
+    "lines": [
+      "countries, it costs far more. For a family",
+      "living on a few dollars a day, one"
+    ]
+  },
+  {
+    "scene": "S06",
+    "start": 6522,
+    "end": 6697,
+    "lines": [
+      "gigabyte can take a significant share of",
+      "the budget, sometimes a whole day's"
+    ]
+  },
+  {
+    "scene": "S06",
+    "start": 6697,
+    "end": 6890,
+    "lines": [
+      "earnings. The result is a behavior we see",
+      "everywhere. People ration data. They watch"
+    ]
+  },
+  {
+    "scene": "S06",
+    "start": 6890,
+    "end": 7079,
+    "lines": [
+      "less video. They skip updates. They share",
+      "a phone. They wait for free Wi-Fi at the"
+    ]
+  },
+  {
+    "scene": "S06",
+    "start": 7079,
+    "end": 7265,
+    "lines": [
+      "market or the school. Being online is not",
+      "a simple yes or no. It is a spectrum of"
+    ]
+  },
+  {
+    "scene": "S06",
+    "start": 7265,
+    "end": 7350,
+    "lines": [
+      "how much you can afford to take part."
+    ]
+  },
+  {
+    "scene": "S07",
+    "start": 7350,
+    "end": 7505,
+    "lines": [
+      "Speed is another divide. Median fixed",
+      "broadband speeds vary dramatically by"
+    ]
+  },
+  {
+    "scene": "S07",
+    "start": 7505,
+    "end": 7669,
+    "lines": [
+      "country and region. In some markets,",
+      "gigabit connections are common. In others,"
+    ]
+  },
+  {
+    "scene": "S07",
+    "start": 7669,
+    "end": 7845,
+    "lines": [
+      "a few megabits per second is normal. Speed",
+      "matters because modern services assume it."
+    ]
+  },
+  {
+    "scene": "S07",
+    "start": 7845,
+    "end": 8017,
+    "lines": [
+      "Video calls, online classes, cloud tools,",
+      "and telehealth all need stable bandwidth."
+    ]
+  },
+  {
+    "scene": "S07",
+    "start": 8017,
+    "end": 8179,
+    "lines": [
+      "A slow connection can turn a digital",
+      "opportunity into a frustrating delay, and"
+    ]
+  },
+  {
+    "scene": "S07",
+    "start": 8179,
+    "end": 8351,
+    "lines": [
+      "a student may miss the whole lesson while",
+      "the video buffers. Speed is also not only"
+    ]
+  },
+  {
+    "scene": "S07",
+    "start": 8351,
+    "end": 8513,
+    "lines": [
+      "about downloads. Upload speed decides",
+      "whether you can speak, teach, or sell to"
+    ]
+  },
+  {
+    "scene": "S07",
+    "start": 8513,
+    "end": 8675,
+    "lines": [
+      "the world. A farmer who cannot upload a",
+      "photo of a crop cannot ask for help or"
+    ]
+  },
+  {
+    "scene": "S07",
+    "start": 8675,
+    "end": 8700,
+    "lines": [
+      "find a buyer."
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 8700,
+    "end": 8865,
+    "lines": [
+      "So who is still left out? The pattern is",
+      "consistent. Rural households are less"
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 8865,
+    "end": 9036,
+    "lines": [
+      "likely to be online than urban households.",
+      "Women are less likely than men in many"
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 9036,
+    "end": 9201,
+    "lines": [
+      "countries. Older people, people with",
+      "disabilities, and lower-income households"
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 9201,
+    "end": 9380,
+    "lines": [
+      "face additional barriers, from the cost of",
+      "a device to a website that is hard to use."
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 9380,
+    "end": 9551,
+    "lines": [
+      "The gender gap is especially stubborn.",
+      "Globally, around 70 percent of men use the"
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 9551,
+    "end": 9722,
+    "lines": [
+      "internet, compared with about 65 percent",
+      "of women. That five-point gap represents"
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 9722,
+    "end": 9884,
+    "lines": [
+      "hundreds of millions of people. Behind",
+      "every percentage point is a person who"
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 9884,
+    "end": 10040,
+    "lines": [
+      "cannot reach the same information,",
+      "services, and opportunities as everyone"
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 10040,
+    "end": 10050,
+    "lines": [
+      "else."
+    ]
+  },
+  {
+    "scene": "S09",
+    "start": 10050,
+    "end": 10227,
+    "lines": [
+      "Why does this matter? The internet is no",
+      "longer a luxury channel. It is where jobs"
+    ]
+  },
+  {
+    "scene": "S09",
+    "start": 10227,
+    "end": 10404,
+    "lines": [
+      "are posted, where education happens, where",
+      "governments deliver services, and where"
+    ]
+  },
+  {
+    "scene": "S09",
+    "start": 10404,
+    "end": 10570,
+    "lines": [
+      "small businesses find customers. When",
+      "people are offline, they miss more than"
+    ]
+  },
+  {
+    "scene": "S09",
+    "start": 10570,
+    "end": 10736,
+    "lines": [
+      "entertainment. They miss access to",
+      "opportunity, to a clinic appointment, to a"
+    ]
+  },
+  {
+    "scene": "S09",
+    "start": 10736,
+    "end": 10909,
+    "lines": [
+      "scholarship, or to a first customer. But",
+      "the evidence also shows that connection"
+    ]
+  },
+  {
+    "scene": "S09",
+    "start": 10909,
+    "end": 11071,
+    "lines": [
+      "alone is not enough. People need skills,",
+      "affordable devices, local language"
+    ]
+  },
+  {
+    "scene": "S09",
+    "start": 11071,
+    "end": 11237,
+    "lines": [
+      "content, and trust. Without those pieces,",
+      "a new connection often sits unused."
+    ]
+  },
+  {
+    "scene": "S09",
+    "start": 11237,
+    "end": 11400,
+    "lines": [
+      "Digital inclusion is not a cable. It is a",
+      "system that has to work together."
+    ]
+  },
+  {
+    "scene": "S10",
+    "start": 11400,
+    "end": 11584,
+    "lines": [
+      "What would close the gap? Three levers",
+      "matter most. First, infrastructure: extend"
+    ]
+  },
+  {
+    "scene": "S10",
+    "start": 11584,
+    "end": 11763,
+    "lines": [
+      "networks to rural and underserved areas,",
+      "and make sure electricity is reliable,"
+    ]
+  },
+  {
+    "scene": "S10",
+    "start": 11763,
+    "end": 11947,
+    "lines": [
+      "because a tower without power is just a",
+      "steel frame. Second, affordability: lower"
+    ]
+  },
+  {
+    "scene": "S10",
+    "start": 11947,
+    "end": 12131,
+    "lines": [
+      "the cost of devices and data, and design",
+      "subsidies that reach the people who need"
+    ]
+  },
+  {
+    "scene": "S10",
+    "start": 12131,
+    "end": 12313,
+    "lines": [
+      "them, not only the people who are easiest",
+      "to count. Third, skills and relevance:"
+    ]
+  },
+  {
+    "scene": "S10",
+    "start": 12313,
+    "end": 12481,
+    "lines": [
+      "teach digital literacy, support local",
+      "languages, and build services people"
+    ]
+  },
+  {
+    "scene": "S10",
+    "start": 12481,
+    "end": 12672,
+    "lines": [
+      "actually need. No single lever is enough.",
+      "A cheap connection without a device is not"
+    ]
+  },
+  {
+    "scene": "S10",
+    "start": 12672,
+    "end": 12851,
+    "lines": [
+      "access. A device without skills is not",
+      "inclusion. And skills without affordable"
+    ]
+  },
+  {
+    "scene": "S10",
+    "start": 12851,
+    "end": 13039,
+    "lines": [
+      "data cannot last. Progress needs all three",
+      "at once, in the same places, at the same"
+    ]
+  },
+  {
+    "scene": "S10",
+    "start": 13039,
+    "end": 13050,
+    "lines": [
+      "time."
+    ]
+  },
+  {
+    "scene": "S11",
+    "start": 13050,
+    "end": 13220,
+    "lines": [
+      "The internet reached five and a half",
+      "billion people faster than almost any"
+    ]
+  },
+  {
+    "scene": "S11",
+    "start": 13220,
+    "end": 13394,
+    "lines": [
+      "technology in history. But the next",
+      "billion will not be won by repeating the"
+    ]
+  },
+  {
+    "scene": "S11",
+    "start": 13394,
+    "end": 13585,
+    "lines": [
+      "same playbook. They will be won by solving",
+      "the hard problems: rural infrastructure,"
+    ]
+  },
+  {
+    "scene": "S11",
+    "start": 13585,
+    "end": 13780,
+    "lines": [
+      "affordability, devices, skills, and trust.",
+      "Each of those problems has a local face, a"
+    ]
+  },
+  {
+    "scene": "S11",
+    "start": 13780,
+    "end": 13968,
+    "lines": [
+      "particular village, a particular price, a",
+      "particular language. The global internet"
+    ]
+  },
+  {
+    "scene": "S11",
+    "start": 13968,
+    "end": 14133,
+    "lines": [
+      "is no longer only a story about",
+      "technology. It is a story about who gets"
+    ]
+  },
+  {
+    "scene": "S11",
+    "start": 14133,
+    "end": 14312,
+    "lines": [
+      "to participate, and who is still waiting",
+      "at the edge of the network. That is a"
+    ]
+  },
+  {
+    "scene": "S11",
+    "start": 14312,
+    "end": 14400,
+    "lines": [
+      "choice we are still making, every day."
+    ]
+  }
+]

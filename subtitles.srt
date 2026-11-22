@@ -1,0 +1,430 @@
+1
+00:00:00,000 --> 00:00:06,500
+In 2005, one billion people were online.
+Today, about five and a half billion are.
+
+2
+00:00:06,500 --> 00:00:12,833
+That is two-thirds of humanity. But the
+last billion is the hardest. This is the
+
+3
+00:00:12,833 --> 00:00:18,933
+story of the global internet, told in
+data. We will look at who is connected,
+
+4
+00:00:18,933 --> 00:00:25,000
+who is not, and what it will take to close
+the gap, one connection at a time.
+
+5
+00:00:25,000 --> 00:00:30,433
+Start with the headline. Around 5.5
+billion people used the internet in 2024.
+
+6
+00:00:30,433 --> 00:00:36,000
+That sounds like success, and in many ways
+it is. In less than two decades, the
+
+7
+00:00:36,000 --> 00:00:41,933
+internet became the default infrastructure
+of modern life. We use it to learn, work,
+
+8
+00:00:41,933 --> 00:00:47,367
+bank, vote, and stay in touch. But a
+global average hides the story. If about
+
+9
+00:00:47,367 --> 00:00:52,733
+two-thirds are online, roughly one in
+three people is still offline. That is
+
+10
+00:00:52,733 --> 00:00:58,667
+about 2.6 billion people. So the question
+is not whether the internet matters. It is
+
+11
+00:00:58,667 --> 00:01:00,000
+who gets to use it.
+
+12
+00:01:00,000 --> 00:01:06,200
+The growth curve is one of the fastest
+adoption stories in history. In 2005, just
+
+13
+00:01:06,200 --> 00:01:12,333
+over one billion people were online. By
+2010, the number had passed two billion.
+
+14
+00:01:12,333 --> 00:01:18,300
+By 2015, it was over three billion. By
+2020, the pandemic pushed millions more
+
+15
+00:01:18,300 --> 00:01:24,200
+online for school, work, and healthcare,
+almost overnight. By 2024, the world
+
+16
+00:01:24,200 --> 00:01:30,467
+crossed five and a half billion. But look
+closely at the shape of the curve. It is
+
+17
+00:01:30,467 --> 00:01:36,833
+slowing. The easy connections are already
+made. The people still offline are harder
+
+18
+00:01:36,833 --> 00:01:42,200
+to reach: remote communities, low-income
+households, and regions where
+
+19
+00:01:42,200 --> 00:01:45,000
+infrastructure is expensive to build.
+
+20
+00:01:45,000 --> 00:01:50,700
+Now let us break the average down by
+region. In Europe, around 92 percent of
+
+21
+00:01:50,700 --> 00:01:56,833
+people are online. In the Americas, about
+87 percent. In the Arab States, about 70
+
+22
+00:01:56,833 --> 00:02:02,600
+percent. In the Asia-Pacific region,
+roughly two-thirds. In Africa, around 37
+
+23
+00:02:02,600 --> 00:02:08,300
+percent, which means most people there are
+still offline. These gaps are not
+
+24
+00:02:08,300 --> 00:02:14,367
+accidents. They follow geography, income,
+electricity, and policy. A country with
+
+25
+00:02:14,367 --> 00:02:20,200
+dense cities and strong fiber can connect
+people quickly. A country with rural
+
+26
+00:02:20,200 --> 00:02:26,333
+populations and high construction costs
+faces a longer, more expensive path. Every
+
+27
+00:02:26,333 --> 00:02:32,167
+new cable and every new tower changes who
+can take part. The global map of the
+
+28
+00:02:32,167 --> 00:02:35,000
+internet is also a map of inequality.
+
+29
+00:02:35,000 --> 00:02:40,833
+For many people, the first connection is
+not a laptop. It is a phone. Mobile
+
+30
+00:02:40,833 --> 00:02:46,667
+broadband has been the on-ramp to the
+internet across low- and middle-income
+
+31
+00:02:46,667 --> 00:02:52,733
+countries. A single tower can reach a
+village that fiber has not reached yet. A
+
+32
+00:02:52,733 --> 00:02:59,100
+prepaid SIM can be bought without a bank
+account, and that changes everything for a
+
+33
+00:02:59,100 --> 00:03:05,600
+family that has never had a contract. That
+is why mobile coverage has expanded faster
+
+34
+00:03:05,600 --> 00:03:11,900
+than fixed broadband. But coverage is not
+the same as usage. You can have a signal
+
+35
+00:03:11,900 --> 00:03:18,100
+and still be offline, because you cannot
+afford a smartphone, a data plan, or the
+
+36
+00:03:18,100 --> 00:03:20,000
+electricity to charge it.
+
+37
+00:03:20,000 --> 00:03:26,067
+Affordability is the quiet barrier. The UN
+broadband target is that entry-level
+
+38
+00:03:26,067 --> 00:03:31,500
+broadband should cost no more than 2
+percent of monthly income. In many
+
+39
+00:03:31,500 --> 00:03:37,400
+countries, it costs far more. For a family
+living on a few dollars a day, one
+
+40
+00:03:37,400 --> 00:03:43,233
+gigabyte can take a significant share of
+the budget, sometimes a whole day's
+
+41
+00:03:43,233 --> 00:03:49,667
+earnings. The result is a behavior we see
+everywhere. People ration data. They watch
+
+42
+00:03:49,667 --> 00:03:55,967
+less video. They skip updates. They share
+a phone. They wait for free Wi-Fi at the
+
+43
+00:03:55,967 --> 00:04:02,167
+market or the school. Being online is not
+a simple yes or no. It is a spectrum of
+
+44
+00:04:02,167 --> 00:04:05,000
+how much you can afford to take part.
+
+45
+00:04:05,000 --> 00:04:10,167
+Speed is another divide. Median fixed
+broadband speeds vary dramatically by
+
+46
+00:04:10,167 --> 00:04:15,633
+country and region. In some markets,
+gigabit connections are common. In others,
+
+47
+00:04:15,633 --> 00:04:21,500
+a few megabits per second is normal. Speed
+matters because modern services assume it.
+
+48
+00:04:21,500 --> 00:04:27,233
+Video calls, online classes, cloud tools,
+and telehealth all need stable bandwidth.
+
+49
+00:04:27,233 --> 00:04:32,633
+A slow connection can turn a digital
+opportunity into a frustrating delay, and
+
+50
+00:04:32,633 --> 00:04:38,367
+a student may miss the whole lesson while
+the video buffers. Speed is also not only
+
+51
+00:04:38,367 --> 00:04:43,767
+about downloads. Upload speed decides
+whether you can speak, teach, or sell to
+
+52
+00:04:43,767 --> 00:04:49,167
+the world. A farmer who cannot upload a
+photo of a crop cannot ask for help or
+
+53
+00:04:49,167 --> 00:04:50,000
+find a buyer.
+
+54
+00:04:50,000 --> 00:04:55,500
+So who is still left out? The pattern is
+consistent. Rural households are less
+
+55
+00:04:55,500 --> 00:05:01,200
+likely to be online than urban households.
+Women are less likely than men in many
+
+56
+00:05:01,200 --> 00:05:06,700
+countries. Older people, people with
+disabilities, and lower-income households
+
+57
+00:05:06,700 --> 00:05:12,667
+face additional barriers, from the cost of
+a device to a website that is hard to use.
+
+58
+00:05:12,667 --> 00:05:18,367
+The gender gap is especially stubborn.
+Globally, around 70 percent of men use the
+
+59
+00:05:18,367 --> 00:05:24,067
+internet, compared with about 65 percent
+of women. That five-point gap represents
+
+60
+00:05:24,067 --> 00:05:29,467
+hundreds of millions of people. Behind
+every percentage point is a person who
+
+61
+00:05:29,467 --> 00:05:34,667
+cannot reach the same information,
+services, and opportunities as everyone
+
+62
+00:05:34,667 --> 00:05:35,000
+else.
+
+63
+00:05:35,000 --> 00:05:40,900
+Why does this matter? The internet is no
+longer a luxury channel. It is where jobs
+
+64
+00:05:40,900 --> 00:05:46,800
+are posted, where education happens, where
+governments deliver services, and where
+
+65
+00:05:46,800 --> 00:05:52,333
+small businesses find customers. When
+people are offline, they miss more than
+
+66
+00:05:52,333 --> 00:05:57,867
+entertainment. They miss access to
+opportunity, to a clinic appointment, to a
+
+67
+00:05:57,867 --> 00:06:03,633
+scholarship, or to a first customer. But
+the evidence also shows that connection
+
+68
+00:06:03,633 --> 00:06:09,033
+alone is not enough. People need skills,
+affordable devices, local language
+
+69
+00:06:09,033 --> 00:06:14,567
+content, and trust. Without those pieces,
+a new connection often sits unused.
+
+70
+00:06:14,567 --> 00:06:20,000
+Digital inclusion is not a cable. It is a
+system that has to work together.
+
+71
+00:06:20,000 --> 00:06:26,133
+What would close the gap? Three levers
+matter most. First, infrastructure: extend
+
+72
+00:06:26,133 --> 00:06:32,100
+networks to rural and underserved areas,
+and make sure electricity is reliable,
+
+73
+00:06:32,100 --> 00:06:38,233
+because a tower without power is just a
+steel frame. Second, affordability: lower
+
+74
+00:06:38,233 --> 00:06:44,367
+the cost of devices and data, and design
+subsidies that reach the people who need
+
+75
+00:06:44,367 --> 00:06:50,433
+them, not only the people who are easiest
+to count. Third, skills and relevance:
+
+76
+00:06:50,433 --> 00:06:56,033
+teach digital literacy, support local
+languages, and build services people
+
+77
+00:06:56,033 --> 00:07:02,400
+actually need. No single lever is enough.
+A cheap connection without a device is not
+
+78
+00:07:02,400 --> 00:07:08,367
+access. A device without skills is not
+inclusion. And skills without affordable
+
+79
+00:07:08,367 --> 00:07:14,633
+data cannot last. Progress needs all three
+at once, in the same places, at the same
+
+80
+00:07:14,633 --> 00:07:15,000
+time.
+
+81
+00:07:15,000 --> 00:07:20,667
+The internet reached five and a half
+billion people faster than almost any
+
+82
+00:07:20,667 --> 00:07:26,467
+technology in history. But the next
+billion will not be won by repeating the
+
+83
+00:07:26,467 --> 00:07:32,833
+same playbook. They will be won by solving
+the hard problems: rural infrastructure,
+
+84
+00:07:32,833 --> 00:07:39,333
+affordability, devices, skills, and trust.
+Each of those problems has a local face, a
+
+85
+00:07:39,333 --> 00:07:45,600
+particular village, a particular price, a
+particular language. The global internet
+
+86
+00:07:45,600 --> 00:07:51,100
+is no longer only a story about
+technology. It is a story about who gets
+
+87
+00:07:51,100 --> 00:07:57,067
+to participate, and who is still waiting
+at the edge of the network. That is a
+
+88
+00:07:57,067 --> 00:08:00,000
+choice we are still making, every day.

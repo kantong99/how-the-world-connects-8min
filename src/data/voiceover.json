@@ -1,0 +1,49 @@
+{
+  "note": "Naskah VO per scene (8 menit, target 145–155 wpm). from/dur dalam frame (30 fps). Dipakai oleh scripts/make-subtitles.mjs.",
+  "scenes": [
+    {
+      "id": "S01", "from": 0, "dur": 750,
+      "text": "In 2005, one billion people were online. Today, about five and a half billion are. That is two-thirds of humanity. But the last billion is the hardest. This is the story of the global internet, told in data. We will look at who is connected, who is not, and what it will take to close the gap, one connection at a time."
+    },
+    {
+      "id": "S02", "from": 750, "dur": 1050,
+      "text": "Start with the headline. Around 5.5 billion people used the internet in 2024. That sounds like success, and in many ways it is. In less than two decades, the internet became the default infrastructure of modern life. We use it to learn, work, bank, vote, and stay in touch. But a global average hides the story. If about two-thirds are online, roughly one in three people is still offline. That is about 2.6 billion people. So the question is not whether the internet matters. It is who gets to use it."
+    },
+    {
+      "id": "S03", "from": 1800, "dur": 1350,
+      "text": "The growth curve is one of the fastest adoption stories in history. In 2005, just over one billion people were online. By 2010, the number had passed two billion. By 2015, it was over three billion. By 2020, the pandemic pushed millions more online for school, work, and healthcare, almost overnight. By 2024, the world crossed five and a half billion. But look closely at the shape of the curve. It is slowing. The easy connections are already made. The people still offline are harder to reach: remote communities, low-income households, and regions where infrastructure is expensive to build."
+    },
+    {
+      "id": "S04", "from": 3150, "dur": 1500,
+      "text": "Now let us break the average down by region. In Europe, around 92 percent of people are online. In the Americas, about 87 percent. In the Arab States, about 70 percent. In the Asia-Pacific region, roughly two-thirds. In Africa, around 37 percent, which means most people there are still offline. These gaps are not accidents. They follow geography, income, electricity, and policy. A country with dense cities and strong fiber can connect people quickly. A country with rural populations and high construction costs faces a longer, more expensive path. Every new cable and every new tower changes who can take part. The global map of the internet is also a map of inequality."
+    },
+    {
+      "id": "S05", "from": 4650, "dur": 1350,
+      "text": "For many people, the first connection is not a laptop. It is a phone. Mobile broadband has been the on-ramp to the internet across low- and middle-income countries. A single tower can reach a village that fiber has not reached yet. A prepaid SIM can be bought without a bank account, and that changes everything for a family that has never had a contract. That is why mobile coverage has expanded faster than fixed broadband. But coverage is not the same as usage. You can have a signal and still be offline, because you cannot afford a smartphone, a data plan, or the electricity to charge it."
+    },
+    {
+      "id": "S06", "from": 6000, "dur": 1350,
+      "text": "Affordability is the quiet barrier. The UN broadband target is that entry-level broadband should cost no more than 2 percent of monthly income. In many countries, it costs far more. For a family living on a few dollars a day, one gigabyte can take a significant share of the budget, sometimes a whole day's earnings. The result is a behavior we see everywhere. People ration data. They watch less video. They skip updates. They share a phone. They wait for free Wi-Fi at the market or the school. Being online is not a simple yes or no. It is a spectrum of how much you can afford to take part."
+    },
+    {
+      "id": "S07", "from": 7350, "dur": 1350,
+      "text": "Speed is another divide. Median fixed broadband speeds vary dramatically by country and region. In some markets, gigabit connections are common. In others, a few megabits per second is normal. Speed matters because modern services assume it. Video calls, online classes, cloud tools, and telehealth all need stable bandwidth. A slow connection can turn a digital opportunity into a frustrating delay, and a student may miss the whole lesson while the video buffers. Speed is also not only about downloads. Upload speed decides whether you can speak, teach, or sell to the world. A farmer who cannot upload a photo of a crop cannot ask for help or find a buyer."
+    },
+    {
+      "id": "S08", "from": 8700, "dur": 1350,
+      "text": "So who is still left out? The pattern is consistent. Rural households are less likely to be online than urban households. Women are less likely than men in many countries. Older people, people with disabilities, and lower-income households face additional barriers, from the cost of a device to a website that is hard to use. The gender gap is especially stubborn. Globally, around 70 percent of men use the internet, compared with about 65 percent of women. That five-point gap represents hundreds of millions of people. Behind every percentage point is a person who cannot reach the same information, services, and opportunities as everyone else."
+    },
+    {
+      "id": "S09", "from": 10050, "dur": 1350,
+      "text": "Why does this matter? The internet is no longer a luxury channel. It is where jobs are posted, where education happens, where governments deliver services, and where small businesses find customers. When people are offline, they miss more than entertainment. They miss access to opportunity, to a clinic appointment, to a scholarship, or to a first customer. But the evidence also shows that connection alone is not enough. People need skills, affordable devices, local language content, and trust. Without those pieces, a new connection often sits unused. Digital inclusion is not a cable. It is a system that has to work together."
+    },
+    {
+      "id": "S10", "from": 11400, "dur": 1650,
+      "text": "What would close the gap? Three levers matter most. First, infrastructure: extend networks to rural and underserved areas, and make sure electricity is reliable, because a tower without power is just a steel frame. Second, affordability: lower the cost of devices and data, and design subsidies that reach the people who need them, not only the people who are easiest to count. Third, skills and relevance: teach digital literacy, support local languages, and build services people actually need. No single lever is enough. A cheap connection without a device is not access. A device without skills is not inclusion. And skills without affordable data cannot last. Progress needs all three at once, in the same places, at the same time."
+    },
+    {
+      "id": "S11", "from": 13050, "dur": 1350,
+      "text": "The internet reached five and a half billion people faster than almost any technology in history. But the next billion will not be won by repeating the same playbook. They will be won by solving the hard problems: rural infrastructure, affordability, devices, skills, and trust. Each of those problems has a local face, a particular village, a particular price, a particular language. The global internet is no longer only a story about technology. It is a story about who gets to participate, and who is still waiting at the edge of the network. That is a choice we are still making, every day."
+    }
+  ]
+}

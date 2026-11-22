@@ -1,0 +1,15 @@
+{
+  "note": "ILLUSTRATIVE VALUES. Replace with verified data (UN/ITU affordability target, Ookla or GSMA speeds) before publishing.",
+  "affordability": {
+    "targetPctOfMonthlyIncome": 2,
+    "lowIncomeExamplePct": 6,
+    "highCostExamplePct": 9
+  },
+  "medianFixedSpeedMbps": [
+    { "region": "Europe", "mbps": 90 },
+    { "region": "Americas", "mbps": 80 },
+    { "region": "Asia-Pacific", "mbps": 45 },
+    { "region": "Arab States", "mbps": 35 },
+    { "region": "Africa", "mbps": 15 }
+  ]
+}

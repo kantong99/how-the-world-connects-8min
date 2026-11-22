@@ -1,0 +1,29 @@
+{
+  "name": "how-the-world-connects-8min",
+  "version": "1.0.0",
+  "private": true,
+  "description": "How the World Connects: The Internet in 8 Minutes (1920x1080, 30 fps, 14400 frames)",
+  "scripts": {
+    "start": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "subtitles": "node scripts/make-subtitles.mjs",
+    "render:chunk01": "node scripts/render-chunk.mjs 01",
+    "render:chunk02": "node scripts/render-chunk.mjs 02",
+    "render:chunk03": "node scripts/render-chunk.mjs 03",
+    "render:chunk04": "node scripts/render-chunk.mjs 04",
+    "render:chunk05": "node scripts/render-chunk.mjs 05",
+    "render:chunk06": "node scripts/render-chunk.mjs 06",
+    "concat": "bash scripts/concat.sh"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.138",
+    "@remotion/google-fonts": "4.0.138",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.138"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "note": "ILLUSTRATIVE. Share of population using the internet by region. Verify with ITU before publishing.",
+  "regions": [
+    { "name": "Europe", "pct": 92, "display": "Europe 92%" },
+    { "name": "Americas", "pct": 87, "display": "Americas 87%" },
+    { "name": "Arab States", "pct": 70, "display": "Arab States ~70%" },
+    { "name": "Asia-Pacific", "pct": 67, "display": "Asia-Pacific ~67%" },
+    { "name": "Africa", "pct": 37, "display": "Africa ~37%" }
+  ],
+  "gender": { "men": 70, "women": 65 }
+}
