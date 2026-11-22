@@ -16,6 +16,20 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install ffmpeg dan gTTS
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install gTTS
+
+      - name: Buat narasi dari naskah
+        run: python scripts/make-voice.py
+
       - name: Install dependencies
         run: npm install
 
