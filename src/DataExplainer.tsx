@@ -41,7 +41,6 @@ export const DataExplainer: React.FC = () => (
     })}
 
     <Audio src={staticFile('voiceover.mp3')} />
-    <Audio src={staticFile('music.mp3')} volume={0.12} loop />
 
     <Captions />
 
